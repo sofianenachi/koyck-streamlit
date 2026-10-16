@@ -4,3 +4,9 @@ numpy
 matplotlib
 statsmodels
 openpyxl
+streamlit>=1.35
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+statsmodels>=0.14
+arch>=7.0
